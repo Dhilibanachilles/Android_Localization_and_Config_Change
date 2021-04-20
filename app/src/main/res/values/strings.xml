@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidBasics2</string>
+    <string name="increment">increment</string>
+    <string name="_0" translatable="false">0</string>
+</resources>
